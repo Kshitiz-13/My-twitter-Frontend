@@ -1,5 +1,7 @@
 # My-twitter-Frontend-
 A clone of twitter frontend made using Html CSS and JS
-![image](https://user-images.githubusercontent.com/55119355/149070596-5262833f-7e9b-48ad-8b06-06c6daae5948.png)
-![image](https://user-images.githubusercontent.com/55119355/149070685-dfa9957f-1be3-434c-a7a5-c793e452b0f8.png)
-![image](https://user-images.githubusercontent.com/55119355/149070741-74b57a73-61da-4923-83eb-5ade744a1258.png)
+
+![image](https://user-images.githubusercontent.com/55119355/149139449-35e22b87-8b36-41e6-8c32-22d91e8b3e42.png)
+![image](https://user-images.githubusercontent.com/55119355/149139502-09e95bee-551f-4715-99e5-9cc08321a74d.png)
+![image](https://user-images.githubusercontent.com/55119355/149139578-b13a2813-36b4-4923-9686-2b8169a85e55.png)
+![image](https://user-images.githubusercontent.com/55119355/149139918-188490c7-e00e-4d1e-8cdd-1d3385fb811e.png)
